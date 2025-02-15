@@ -18,7 +18,6 @@ Hi! My name is **Abdelrahman kamel**. I'm a **student** at **faculty of computer
 If you're interested in my work or want to collaborate, feel free to reach out!
 
 📧 **Email:** [kamelabdelrahman73@gmail.com]  
-🔗 **LinkedIn:** [www.linkedin.com/in/
-abdelrahman-kamel-b35562307](https://www.linkedin.com/in/your-profile)  
+🔗 **LinkedIn:** [www.linkedin.com/in/abdelrahman-kamel-b35562307](https://www.linkedin.com/in/your-profile)  
 
 Looking forward to learning and growing together! 🚀
