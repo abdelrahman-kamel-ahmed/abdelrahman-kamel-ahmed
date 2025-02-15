@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-Hi! My name is **[Abdelrahman kamel]**. I'm a **[student]** at **[faculty of computer sceince and Artificial Intelligence / Cairo university]** and a passionate **developer**. I enjoy building projects that enhance my skills and contribute to real-world applications.
+Hi! My name is **Abdelrahman kamel**. I'm a **student** at **faculty of computer sceince and Artificial Intelligence / Cairo university** and a passionate **developer**. I enjoy building projects that enhance my skills and contribute to real-world applications.
 
 ## What You'll Find Here
 - A collection of projects showcasing my **coding skills and problem-solving abilities**.
