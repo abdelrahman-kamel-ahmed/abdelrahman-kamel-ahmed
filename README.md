@@ -1,9 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-Hi! My name is **Abdelrahman Kamel**. I'm a **third-year Computer Science student** at the **Faculty of Computers and Artificial Intelligence – Cairo University** and a passionate **Full-Stack Developer**.
-
-I enjoy building projects that improve my skills and solve real-world problems. Recently, I’ve been focusing on **modern web development**, building full-stack applications using **React for the frontend** and **Node.js / Express for the backend**, along with working with different databases.
+Hi! My name is **Abdelrahman Kamel**. I'm a **third-year Computer Science student** at the **Faculty of Computers and Artificial Intelligence – Cairo University** and a passionate **Full-Stack Developer specializing in the **MERN Stack** as well as **NestJS**.
 
 ## What You'll Find Here
 - A collection of projects showcasing my **coding skills and problem-solving abilities**.
@@ -27,7 +25,8 @@ I enjoy building projects that improve my skills and solve real-world problems. 
   MongoDB, MySQL
 
 - **Computer Science Fundamentals:**  
-  OOP, Data Structures, Algorithms
+  OOP, Data Structures, Advanced Data Structures, Algorithms, Design Patterns,  
+  Problem Solving, Software Architecture, REST API Design, Database Design
 
 - **Tools & Version Control:**  
   Git, GitHub
