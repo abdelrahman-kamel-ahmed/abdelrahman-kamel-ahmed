@@ -8,17 +8,29 @@ I enjoy building projects that improve my skills and solve real-world problems. 
 ## What You'll Find Here
 - A collection of projects showcasing my **coding skills and problem-solving abilities**.
 - **Full-stack web applications** built with React and Node.js.
-- Backend APIs and systems using **Express.js**.
+- Backend APIs and systems using **Express.js** & **NestJS**.
 - Academic and personal projects related to **software development, data structures, algorithms, and AI**.
-
 ## Technologies & Skills
 
 - **Programming Languages:** C++, Python, Java, JavaScript, Dart  
-- **Frontend Development:** React.js, HTML, CSS, JavaScript  
-- **Backend Development:** Node.js, Express.js, REST APIs  
-- **Databases:** MongoDB, MySQL  
-- **Computer Science Fundamentals:** OOP, Data Structures, Algorithms  
-- **Version Control:** Git, GitHub  
+
+- **Frontend Development:**  
+  React.js, HTML5, CSS3, JavaScript (ES6+)
+
+- **Styling & UI Frameworks:**  
+  Bootstrap, Tailwind CSS
+
+- **Backend Development:**  
+  Node.js, Express.js, NestJS, REST APIs
+
+- **Databases:**  
+  MongoDB, MySQL
+
+- **Computer Science Fundamentals:**  
+  OOP, Data Structures, Algorithms
+
+- **Tools & Version Control:**  
+  Git, GitHub
 
 ## Let's Connect!
 If you're interested in my work or want to collaborate, feel free to reach out!
